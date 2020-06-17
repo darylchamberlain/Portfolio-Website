@@ -1,8 +1,29 @@
-.Skills {
-    background-color: #3a4255;
+.Skills{
+    width: 100%;
+}
+
+.Container {
+    background-color: #b19e7d;
 }
 
 .Adobe {
-    background-image: url('../../Images/adobe.svg');
-    background-repeat: no-repeat;
+    width: 80%;
+ }
+
+.Office{
+    width: 60%;
+}
+
+.Coding{
+    width: 40%;
+}
+
+.Line {
+    height: 2rem;
+    background-color: #3a4255;
+}
+
+.Text{
+    color: #fff;
+    margin: 1rem;
 }

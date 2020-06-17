@@ -5,18 +5,21 @@ class Skills extends React.Component {
     render() {
         return (
             <div className="Skills">
-                <div className="Adobe">
-                    <p>Adobe</p>
-                </div>   
-                <div className="Office">
-                    <p>Office</p>
-                </div>   
-                <div className="Coding">
-                    <p>Coding</p>
-                </div>   
-                <div className="Coding">
-                    <p>Photograhpy</p>
-                </div>   
+                <div className="Container">
+                    <div className="Adobe Line">
+                        <p className="Text">Adobe</p>  
+                    </div>   
+                </div>
+                <div className="Container">
+                    <div className="Office Line">
+                        <p className="Text">Office</p>  
+                    </div>   
+                </div>
+                <div className="Container">
+                     <div className="Coding Line">
+                         <p className="Text">Coding</p>  
+                     </div>   
+                 </div>
             </div>
         )
     }
