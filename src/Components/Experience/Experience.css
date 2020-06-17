@@ -1,0 +1,25 @@
+.Summary {
+    background-color: indianred;
+    width: 100%;
+    text-align: center;
+}
+
+.Experience{
+    background-color: rgb(67, 74, 104);
+}
+
+.Manager{
+   background-color: rgb(104, 67, 104);
+}
+
+.Supervisor{
+    background-color: rgb(109, 103, 93);
+}
+
+.Designer{
+    background-color: rgb(59, 172, 116);
+}
+
+.Artist{
+    background-color: rgb(59, 59, 172);
+}

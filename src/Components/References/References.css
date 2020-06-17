@@ -1,0 +1,13 @@
+.References{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Left {
+    margin: 2rem;
+}
+
+.Right {
+    margin: 2rem;
+}

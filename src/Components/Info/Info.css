@@ -1,0 +1,13 @@
+.Info {
+    background-color: green;
+}
+
+.Address {
+    background-image: url('../../Images/address.svg');
+    background-repeat: no-repeat;
+}
+
+.Phone {
+    background-image: url('../../Images/phone.svg');
+    background-repeat: no-repeat;
+}
