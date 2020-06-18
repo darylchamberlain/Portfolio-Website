@@ -1,13 +1,27 @@
+p{
+    margin:2rem;
+}
+
 .Info {
     background-color: green;
+    padding: 1rem;
+    
 }
 
 .Address {
     background-image: url('../../Images/address.svg');
     background-repeat: no-repeat;
+    margin: 1rem;
 }
 
 .Phone {
     background-image: url('../../Images/phone.svg');
     background-repeat: no-repeat;
+    margin: 1rem;
+}
+
+.Email {
+    background-image: url('../../Images/email.svg');
+    background-repeat: no-repeat;
+    margin: 1rem;
 }

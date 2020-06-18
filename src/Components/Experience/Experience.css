@@ -1,25 +1,49 @@
-.Summary {
-    background-color: indianred;
-    width: 100%;
+.Experience{
+    background-color: rgb(146, 157, 158, 0.9);
     text-align: center;
+    padding: 5rem 0rem;
 }
 
-.Experience{
-    background-color: rgb(67, 74, 104);
+.Summary {
+    background-color: rgb(127, 134,136, 0.9);
+    text-align: center;
+    padding: 3rem 0;
 }
 
 .Manager{
-   background-color: rgb(104, 67, 104);
+    background-color: rgb(146, 157, 158, 0.9);
+   padding: 2rem 0;
 }
 
 .Supervisor{
-    background-color: rgb(109, 103, 93);
+    background-color: rgb(127, 134,136, 0.9);
+    padding: 2rem 0;
 }
 
 .Designer{
-    background-color: rgb(59, 172, 116);
+    background-color: rgb(146, 157, 158, 0.9);
+    padding: 2rem 0;
 }
 
 .Artist{
-    background-color: rgb(59, 59, 172);
+    background-color: rgb(127, 134,136, 0.9);
+    padding: 2rem 0;
 }
+
+.Experience h2{
+    font-size: 2rem;
+    color:rgba(243, 227, 103, 0.9);
+    
+}
+
+.Experience p {
+    display: flex;
+    max-width: 50rem;
+    margin: 1rem auto;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
